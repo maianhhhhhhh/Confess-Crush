@@ -17,3 +17,4 @@ const CONFIG = {
     messDesc: 'sắp sinh nhật t nhớ mua bim ',
     btnAccept: 'ừ :)))',
     messLink: 'https://github.com/maianhiubanvl/iulammoidualink' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
