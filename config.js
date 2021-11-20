@@ -13,7 +13,7 @@ const CONFIG = {
     question: 'Trên thế giới hơn 7 tỉ người iu t là đúng thắc mắc qq',
     btnReply: 'Gửi cho anh iu',
     reply: 'iu iu cái ',
-    mess: 'Bố m biết mà . Yêu m nhiều nhiều vl',
-    messDesc: 'sắp sinh nhật t nhớ mua bim .',
-    btnAccept: 'ừ :)))'
+    mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
+    messDesc: 'sắp sinh nhật t nhớ mua bim ',
+    btnAccept: 'ừ :)))',
     messLink: 'https://github.com/maianhiubanvl/iulammoidualink' //link mess của các bạn. VD: https://m.me/nam.nodemy
