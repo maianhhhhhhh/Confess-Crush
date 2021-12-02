@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
     messDesc: 'sắp sinh nhật t nhớ mua bimbimm',
     btnAccept: 'ừ :)?',
-    messLink: 'https://github.com/qqlammaidellxong/iulammoidualinkdo' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/qqlammaidellxong/dmmm' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
