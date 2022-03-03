@@ -8,7 +8,7 @@ const CONFIG = {
     btnIntro: 'đồng ý',
     title: 'iu t đi t ngoan vl ',
     desc: 'im và iu t ',
-    btnYes: 'Thích lắm aaa ',
+    btnYes: 'Thích lắm aa ',
     btnNo: 'Không :)',
     question: 'Trên thế giới hơn 7 tỉ người iu t là đúng thắc mắc qq',
     btnReply: 'Gửi cho anh iu',
