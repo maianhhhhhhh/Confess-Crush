@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh iu',
     reply: 'iu iu cái qq ',
     mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
-    messDesc: 'sắp sinh nhật t nhớ mua bimbimm',
-    btnAccept: 'ừ :)',
+    messDesc: 'Chúc emiu sinh nhật vui vẻ,
+    btnAccept: 'ừ :)) iuanh',
     messLink: 'https://github.com/qqlammaidellxong/dmmm' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
