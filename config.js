@@ -5,7 +5,7 @@ const CONFIG = {
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'đồng ýyyy',
+    btnIntro: 'đồng ý',
     title: 'iu t đi t ngoan vl ',
     desc: 'im và iu t ',
     btnYes: 'Thích lắm aaa ',
@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
     messDesc: 'Chúc emiu sinh nhật vui vẻ,
     btnAccept: 'ừ :)) iuanh',
-    messLink: 'https://github.com/qqlammaidellxong/dmmm' //https://www.facebook.com/messages/t/100054388960987
+    messLink: 'https://github.com/qqlammaidellxong/dmm' //https://www.facebook.com/messages/t/100054388960987
