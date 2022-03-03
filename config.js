@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "iu bạn vll",
+    titleWeb: "iu bạn vl",
     introTitle: 'yêu t hoặc iu t ',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
     messDesc: 'Chúc emiu sinh nhật vui vẻ,
     btnAccept: 'ừ :)) iuanh',
-    messLink: 'https://github.com/qqlammaidellxong/dmm' //https://www.facebook.com/messages/t/100054388960987
+    messLink: 'https://github.com/qqlammaidellxong/dm //https://www.facebook.com
