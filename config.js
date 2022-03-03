@@ -7,8 +7,8 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'đồng ýyyy',
     title: 'iu t đi t ngoan vl ',
-    desc: 'immom và iu t ',
-    btnYes: 'Thích lắm ',
+    desc: 'im và iu t ',
+    btnYes: 'Thích lắm aaa ',
     btnNo: 'Không :)',
     question: 'Trên thế giới hơn 7 tỉ người iu t là đúng thắc mắc qq',
     btnReply: 'Gửi cho anh iu',
@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
     messDesc: 'Chúc emiu sinh nhật vui vẻ,
     btnAccept: 'ừ :)) iuanh',
-    messLink: 'https://github.com/qqlammaidellxong/dmm' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/qqlammaidellxong/dmmm' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
