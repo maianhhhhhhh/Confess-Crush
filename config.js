@@ -16,4 +16,4 @@ const CONFIG = {
     mess: 'Bố m biết mà. Yêu m nhiều nhiều vl',
     messDesc: 'Chúc emiu sinh nhật vui vẻ,
     btnAccept: 'ừ :)) iuanh',
-    messLink: 'https://github.com/qqlammaidellxong/dm /
+    messLink: 'https://github.com/saiqqnaodma/dm /
